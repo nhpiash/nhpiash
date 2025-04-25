@@ -11,7 +11,7 @@ Skills: PHP/ MySQL/ AJAX/ jQuery/ Bootstrap/ CSS3/ HTML5
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Application Software OR PHP & MySQL 
-- 📫 How to reach me: https://www.fiverr.com/web_desginer08 
+- 📫 How to reach me: 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nhpiash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nhpiash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/webdesginer08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nh.piash//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/nhpiash)  
